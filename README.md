@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Users/kayladaigle/Desktop/Order_Summary_Challenge/images/desktop-preview-ordercard.png) 
-(/Users/kayladaigle/Desktop/Order_Summary_Challenge/images/mobile-preview-ordercard.png)
+![images/desktop-preview-ordercard.png]
+[images/mobile-preview-ordercard.png]
 
 ### Links
 
