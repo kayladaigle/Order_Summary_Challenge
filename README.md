@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![images/desktop-preview-ordercard.png]
-[images/mobile-preview-ordercard.png]
+![](images/desktop-preview-ordercard.png)
+![](images/mobile-preview-ordercard.png)
 
 ### Links
 
